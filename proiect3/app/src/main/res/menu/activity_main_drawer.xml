@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_main"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Main"
+            android:visible="true"/>
+        <item
+            android:id="@+id/nav_profil_utilizator"
+            android:icon="@drawable/ic_baseline_person_pin_24"
+            android:title="Profil utilizator" />
+        <item
+            android:id="@+id/nav_incarca_date_utilizatori"
+            android:icon="@drawable/ic_baseline_people_24"
+            android:title="Incarca date utilizatori" />
+        <item
+            android:id="@+id/nav_incarca_date_curse"
+            android:icon="@drawable/ic_baseline_directions_car_filled_24"
+            android:title="Incarca date curse" />
+        <item
+            android:id="@+id/nav_raport_curse"
+            android:icon="@drawable/ic_baseline_bar_chart_24"
+            android:title="Raport curse" />
+    </group>
+</menu>

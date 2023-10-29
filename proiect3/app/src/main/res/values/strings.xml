@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Aplicatie Transport Partajat</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Transport partajat masini personale</string>
+    <string name="nav_header_subtitle">Proiect DAM</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="select_option">Am ales optiunea %1$s</string>
+    <string name="fisier_curse_json">curse.json</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="date_format">dd/MM/yyyy</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="valoare_lipsa">-</string>
+    <string name="cursa_plecare">De la</string>
+    <string name="cursa_destinatie">La</string>
+    <string name="cursa_data_plecare">Data plecare</string>
+    <string name="cursa_ora_plecare">Ora plecare</string>
+    <string name="cursa_numar_pasageri">Numar pasageri</string>
+    <string name="cursa_1_pasager">1</string>
+    <string name="cursa_2_pasageri">2</string>
+    <string name="cursa_3_pasageri">3</string>
+    <string name="cursa_4_pasageri">4</string>
+    <string name="cursa_pret_per_pasager">Pret per pasager</string>
+    <string name="cursa_accepta_animale_companie">Accepta animale companie</string>
+    <string name="cursa_salveaza">Salveaza</string>
+    <string name="utilizator_logat_id">1</string>
+    <string name="utilizator_id">Id</string>
+    <string name="utilizator_nume">Nume</string>
+    <string name="utilizator_email">Email</string>
+    <string name="utilizator_telefon">Telefon</string>
+    <string name="utilizator_data_nasterii">Data nasterii</string>
+    <string name="utilizator_este_sofer">Este sofer</string>
+    <string name="utilizator_salveaza_profil">Salveaza profil</string>
+    <string name="cursa_imagine_car_sharing">Imagine car sharing</string>
+    <string name="cursa_imagine_data_plecare">Imagine data plecare</string>
+    <string name="lista_curse_disponibile">Lista curse disponibile</string>
+    <string name="utilizatori_incarca_date">Incarca date utilizatori</string>
+    <string name="utilizatori_cautare">Cauta utilizatori</string>
+    <string name="utilizatori_inchide">Inchide</string>
+</resources>
